@@ -1,7 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
-
+![[images/homepage.jfif]]
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 ---
@@ -11,6 +11,7 @@ title: Wenstar's Digital Garden
 # Wenstar's Digital Garden
 
 欢迎来到我的个人科研笔记网站。
+![[][[]]]
 
 ## 🧬 生物信息学
 
